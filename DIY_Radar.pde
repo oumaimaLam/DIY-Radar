@@ -159,4 +159,5 @@ void drawText() { // draws the texts on the screen
   rotate(radians(-60));
   text("150°",0,0);
   popMatrix(); 
+  
 }
